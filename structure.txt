@@ -1,0 +1,21 @@
+NoteTakingApp/
+│
+├── client/ (React Frontend)
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── NoteList.js
+│   │   │   ├── Note.js
+│   │   │   └── SearchBar.js
+│   │   ├── App.js
+│   │   └── index.js
+│   └── package.json
+│
+├── server/ (Node.js Backend)
+│   ├── models/
+│   │   └── noteModel.js
+│   ├── routes/
+│   │   └── notes.js
+│   ├── app.js
+│   └── package.json
+│
+└── README.md
